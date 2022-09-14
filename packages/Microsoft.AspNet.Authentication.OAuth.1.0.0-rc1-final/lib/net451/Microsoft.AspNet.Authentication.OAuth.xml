@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.AspNet.Authentication.OAuth</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.AspNet.Authentication.OAuth.OAuthMiddleware`1">
+            <summary>
+            An ASP.NET middleware for authenticating users using OAuth services.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNet.Authentication.OAuth.OAuthMiddleware`1.#ctor(Microsoft.AspNet.Builder.RequestDelegate,Microsoft.AspNet.DataProtection.IDataProtectionProvider,Microsoft.Extensions.Logging.ILoggerFactory,Microsoft.Extensions.WebEncoders.IUrlEncoder,Microsoft.Extensions.OptionsModel.IOptions{Microsoft.AspNet.Authentication.SharedAuthenticationOptions},`0)">
+            <summary>
+            Initializes a new <see cref="!:OAuthAuthenticationMiddleware"/>.
+            </summary>
+            <param name="next">The next middleware in the HTTP pipeline to invoke.</param>
+            <param name="dataProtectionProvider"></param>
+            <param name="loggerFactory"></param>
+            <param name="options">Configuration options for the middleware.</param>
+        </member>
+        <member name="M:Microsoft.AspNet.Authentication.OAuth.OAuthMiddleware`1.CreateHandler">
+            <summary>
+            Provides the <see cref="!:AuthenticationHandler"/> object for processing authentication-related requests.
+            </summary>
+            <returns>An <see cref="!:AuthenticationHandler"/> configured with the <see cref="T:Microsoft.AspNet.Authentication.OAuth.OAuthOptions"/> supplied to the constructor.</returns>
+        </member>
+        <member name="T:Microsoft.AspNet.Authentication.OAuth.OAuthOptions">
+            <summary>
+            Configuration options for <see cref="!:OAuthMiddleware"/>.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthOptions.ClientId">
+            <summary>
+            Gets or sets the provider-assigned client id.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthOptions.ClientSecret">
+            <summary>
+            Gets or sets the provider-assigned client secret.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthOptions.AuthorizationEndpoint">
+            <summary>
+            Gets or sets the URI where the client will be redirected to authenticate.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthOptions.TokenEndpoint">
+            <summary>
+            Gets or sets the URI the middleware will access to exchange the OAuth token.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthOptions.UserInformationEndpoint">
+            <summary>
+            Gets or sets the URI the middleware will access to obtain the user information.
+            This value is not used in the default implementation, it is for use in custom implementations of
+            IOAuthAuthenticationEvents.Authenticated or OAuthAuthenticationHandler.CreateTicketAsync.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthOptions.Events">
+            <summary>
+            Gets or sets the <see cref="T:Microsoft.AspNet.Authentication.OAuth.IOAuthEvents"/> used to handle authentication events.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthOptions.Scope">
+            <summary>
+            A list of permissions to request.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthOptions.StateDataFormat">
+            <summary>
+            Gets or sets the type used to secure data handled by the middleware.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthOptions.SaveTokensAsClaims">
+            <summary>
+            Defines whether access and refresh tokens should be stored in the
+            <see cref="!:ClaimsPrincipal"/> after a successful authentication.
+            You can set this property to <c>false</c> to reduce the size of the final
+            authentication cookie. Note that social providers set this property to <c>false</c> by default.
+            </summary>
+        </member>
+        <member name="T:Microsoft.AspNet.Authentication.OAuth.IOAuthEvents">
+            <summary>
+            Specifies callback methods which the <see cref="!:OAuthMiddleware"/> invokes to enable developer control over the authentication process.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNet.Authentication.OAuth.IOAuthEvents.CreatingTicket(Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext)">
+            <summary>
+            Invoked after the provider successfully authenticates a user. This can be used to retrieve user information.
+            This event may not be invoked by sub-classes of OAuthAuthenticationHandler if they override CreateTicketAsync.
+            </summary>
+            <param name="context">Contains information about the login session.</param>
+            <returns>A <see cref="T:System.Threading.Tasks.Task"/> representing the completed operation.</returns>
+        </member>
+        <member name="M:Microsoft.AspNet.Authentication.OAuth.IOAuthEvents.RedirectToAuthorizationEndpoint(Microsoft.AspNet.Authentication.OAuth.OAuthRedirectToAuthorizationContext)">
+            <summary>
+            Called when a Challenge causes a redirect to the authorize endpoint.
+            </summary>
+            <param name="context">Contains redirect URI and <see cref="!:AuthenticationProperties"/> of the challenge.</param>
+        </member>
+        <member name="T:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext">
+            <summary>
+            Contains information about the login session as well as the user <see cref="T:System.Security.Claims.ClaimsIdentity"/>.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.#ctor(Microsoft.AspNet.Http.HttpContext,Microsoft.AspNet.Authentication.OAuth.OAuthOptions,System.Net.Http.HttpClient,Microsoft.AspNet.Authentication.OAuth.OAuthTokenResponse)">
+            <summary>
+            Initializes a new <see cref="T:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext"/>.
+            </summary>
+            <param name="context">The HTTP environment.</param>
+            <param name="options">The options used by the authentication middleware.</param>
+            <param name="backchannel">The HTTP client used by the authentication middleware</param>
+            <param name="tokens">The tokens returned from the token endpoint.</param>
+        </member>
+        <member name="M:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.#ctor(Microsoft.AspNet.Http.HttpContext,Microsoft.AspNet.Authentication.OAuth.OAuthOptions,System.Net.Http.HttpClient,Microsoft.AspNet.Authentication.OAuth.OAuthTokenResponse,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Initializes a new <see cref="T:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext"/>.
+            </summary>
+            <param name="context">The HTTP environment.</param>
+            <param name="options">The options used by the authentication middleware.</param>
+            <param name="backchannel">The HTTP client used by the authentication middleware</param>
+            <param name="tokens">The tokens returned from the token endpoint.</param>
+            <param name="user">The JSON-serialized user.</param>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.User">
+            <summary>
+            Gets the JSON-serialized user or an empty
+            <see cref="T:Newtonsoft.Json.Linq.JObject"/> if it is not available.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.TokenResponse">
+            <summary>
+            Gets the token response returned by the authentication service.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.AccessToken">
+            <summary>
+            Gets the access token provided by the authentication service.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.TokenType">
+            <summary>
+            Gets the access token type provided by the authentication service.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.RefreshToken">
+            <summary>
+            Gets the refresh token provided by the authentication service.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.ExpiresIn">
+            <summary>
+            Gets the access token expiration time.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.Backchannel">
+            <summary>
+            Gets the backchannel used to communicate with the provider.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.Principal">
+            <summary>
+            Gets the <see cref="T:System.Security.Claims.ClaimsPrincipal"/> representing the user.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.Identity">
+            <summary>
+            Gets the main identity exposed by <see cref="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.Principal"/>.
+            This property returns <c>null</c> when <see cref="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.Principal"/> is <c>null</c>.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext.Properties">
+            <summary>
+            Gets or sets a property bag for common authentication properties.
+            </summary>
+        </member>
+        <member name="T:Microsoft.AspNet.Authentication.OAuth.OAuthEvents">
+            <summary>
+            Default <see cref="T:Microsoft.AspNet.Authentication.OAuth.IOAuthEvents"/> implementation.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthEvents.OnCreatingTicket">
+            <summary>
+            Gets or sets the function that is invoked when the CreatingTicket method is invoked.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthEvents.OnRedirectToAuthorizationEndpoint">
+            <summary>
+            Gets or sets the delegate that is invoked when the RedirectToAuthorizationEndpoint method is invoked.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNet.Authentication.OAuth.OAuthEvents.CreatingTicket(Microsoft.AspNet.Authentication.OAuth.OAuthCreatingTicketContext)">
+            <summary>
+            Invoked after the provider successfully authenticates a user.
+            </summary>
+            <param name="context">Contains information about the login session as well as the user <see cref="!:ClaimsIdentity"/>.</param>
+            <returns>A <see cref="T:System.Threading.Tasks.Task"/> representing the completed operation.</returns>
+        </member>
+        <member name="M:Microsoft.AspNet.Authentication.OAuth.OAuthEvents.RedirectToAuthorizationEndpoint(Microsoft.AspNet.Authentication.OAuth.OAuthRedirectToAuthorizationContext)">
+            <summary>
+            Called when a Challenge causes a redirect to authorize endpoint in the OAuth middleware.
+            </summary>
+            <param name="context">Contains redirect URI and <see cref="!:AuthenticationProperties"/> of the challenge.</param>
+        </member>
+        <member name="T:Microsoft.AspNet.Authentication.OAuth.OAuthRedirectToAuthorizationContext">
+            <summary>
+            Context passed when a Challenge causes a redirect to authorize endpoint in the middleware.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNet.Authentication.OAuth.OAuthRedirectToAuthorizationContext.#ctor(Microsoft.AspNet.Http.HttpContext,Microsoft.AspNet.Authentication.OAuth.OAuthOptions,Microsoft.AspNet.Http.Authentication.AuthenticationProperties,System.String)">
+            <summary>
+            Creates a new context object.
+            </summary>
+            <param name="context">The HTTP request context.</param>
+            <param name="properties">The authentication properties of the challenge.</param>
+            <param name="redirectUri">The initial redirect URI.</param>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthRedirectToAuthorizationContext.RedirectUri">
+            <summary>
+            Gets the URI used for the redirect operation.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.OAuthRedirectToAuthorizationContext.Properties">
+            <summary>
+            Gets the authentication properties of the challenge.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.Resources.Exception_OptionMustBeProvided">
+            <summary>
+            The '{0}' option must be provided.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNet.Authentication.OAuth.Resources.FormatException_OptionMustBeProvided(System.Object)">
+            <summary>
+            The '{0}' option must be provided.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNet.Authentication.OAuth.Resources.Exception_ValidatorHandlerMismatch">
+            <summary>
+            An ICertificateValidator cannot be specified at the same time as an HttpMessageHandler unless it is a WebRequestHandler.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNet.Authentication.OAuth.Resources.FormatException_ValidatorHandlerMismatch">
+            <summary>
+            An ICertificateValidator cannot be specified at the same time as an HttpMessageHandler unless it is a WebRequestHandler.
+            </summary>
+        </member>
+        <member name="T:Microsoft.AspNet.Builder.OAuthAppBuilderExtensions">
+            <summary>
+            Extension methods to add OAuth 2.0 authentication capabilities to an HTTP application pipeline.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNet.Builder.OAuthAppBuilderExtensions.UseOAuthAuthentication(Microsoft.AspNet.Builder.IApplicationBuilder,System.Action{Microsoft.AspNet.Authentication.OAuth.OAuthOptions})">
+            <summary>
+            Adds the <see cref="T:Microsoft.AspNet.Authentication.OAuth.OAuthMiddleware`1"/> middleware to the specified <see cref="T:Microsoft.AspNet.Builder.IApplicationBuilder"/>, which enables OAuth 2.0 authentication capabilities.
+            </summary>
+            <param name="app">The <see cref="T:Microsoft.AspNet.Builder.IApplicationBuilder"/> to add the middleware to.</param>
+            <param name="configureOptions">An action delegate to configure the provided <see cref="T:Microsoft.AspNet.Authentication.OAuth.OAuthOptions"/>.</param>
+            <returns>A reference to this instance after the operation has completed.</returns>
+        </member>
+        <member name="M:Microsoft.AspNet.Builder.OAuthAppBuilderExtensions.UseOAuthAuthentication(Microsoft.AspNet.Builder.IApplicationBuilder,Microsoft.AspNet.Authentication.OAuth.OAuthOptions)">
+            <summary>
+            Adds the <see cref="T:Microsoft.AspNet.Authentication.OAuth.OAuthMiddleware`1"/> middleware to the specified <see cref="T:Microsoft.AspNet.Builder.IApplicationBuilder"/>, which enables OAuth 2.0 authentication capabilities.
+            </summary>
+            <param name="app">The <see cref="T:Microsoft.AspNet.Builder.IApplicationBuilder"/> to add the middleware to.</param>
+            <param name="options">A <see cref="T:Microsoft.AspNet.Authentication.OAuth.OAuthOptions"/> that specifies options for the middleware.</param>
+            <returns>A reference to this instance after the operation has completed.</returns>
+        </member>
+    </members>
+</doc>

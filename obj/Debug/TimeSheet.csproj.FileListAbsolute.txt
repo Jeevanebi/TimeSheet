@@ -1,0 +1,1105 @@
+C:\Users\Jeevan\source\repos\TimeSheet\bin\TimeSheet.dll.config
+C:\Users\Jeevan\source\repos\TimeSheet\bin\TimeSheet.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\TimeSheet.pdb
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\csc.exe
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\csc.exe.config
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\csc.rsp
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\csi.exe
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\csi.exe.config
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\csi.rsp
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.AppContext.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Console.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Net.Http.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\vbc.exe
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\vbc.exe.config
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\vbc.rsp
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jeevan\source\repos\TimeSheet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jeevan\source\repos\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\Newtonsoft.Json.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\System.Net.Http.Formatting.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\System.Web.Http.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\System.Web.Http.WebHost.dll
+C:\Users\Jeevan\source\repos\TimeSheet\bin\Newtonsoft.Json.xml
+C:\Users\Jeevan\source\repos\TimeSheet\bin\System.Net.Http.Formatting.xml
+C:\Users\Jeevan\source\repos\TimeSheet\bin\System.Web.Http.xml
+C:\Users\Jeevan\source\repos\TimeSheet\bin\System.Web.Http.WebHost.xml
+C:\Users\Jeevan\source\repos\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jeevan\source\repos\TimeSheet\obj\Debug\TimeSheet.csproj.AssemblyReference.cache
+C:\Users\Jeevan\source\repos\TimeSheet\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
+C:\Users\Jeevan\source\repos\TimeSheet\obj\Debug\TimeSheet.csproj.CopyComplete
+C:\Users\Jeevan\source\repos\TimeSheet\obj\Debug\TimeSheet.dll
+C:\Users\Jeevan\source\repos\TimeSheet\obj\Debug\TimeSheet.pdb
+C:\Users\Jeevan\source\repos\TimeSheet\bin\AjaxControlToolkit.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\TimeSheet.dll.config
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\TimeSheet.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\TimeSheet.pdb
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\csc.exe
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\csc.exe.config
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\csc.rsp
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\csi.exe
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\csi.exe.config
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\csi.rsp
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.AppContext.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Console.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Net.Http.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\vbc.exe
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\vbc.exe.config
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\vbc.rsp
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\AjaxControlToolkit.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\Newtonsoft.Json.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\System.Net.Http.Formatting.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\System.Web.Http.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\System.Web.Http.WebHost.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\Newtonsoft.Json.xml
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\System.Net.Http.Formatting.xml
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\System.Web.Http.xml
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\System.Web.Http.WebHost.xml
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csproj.AssemblyReference.cache
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csproj.CopyComplete
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\obj\Debug\TimeSheet.dll
+C:\Users\Jeevan Ebi\Documents\Project\TimeSheet\TimeSheet\obj\Debug\TimeSheet.pdb
+D:\Project Time sheet\Phase 2\TimeSheet\bin\TimeSheet.dll.config
+D:\Project Time sheet\Phase 2\TimeSheet\bin\TimeSheet.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\TimeSheet.pdb
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\csc.exe
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\csc.exe.config
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\csc.rsp
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\csi.exe
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\csi.exe.config
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\csi.rsp
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.AppContext.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Collections.Immutable.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Console.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.IO.Compression.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.IO.FileSystem.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Net.Http.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Net.Sockets.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.ValueTuple.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Xml.XPath.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\vbc.exe
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\vbc.exe.config
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\vbc.rsp
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\VBCSCompiler.exe
+D:\Project Time sheet\Phase 2\TimeSheet\bin\roslyn\VBCSCompiler.exe.config
+D:\Project Time sheet\Phase 2\TimeSheet\bin\AjaxControlToolkit.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Newtonsoft.Json.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Net.Http.Formatting.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Web.Http.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Web.Http.WebHost.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Newtonsoft.Json.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Net.Http.Formatting.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Web.Http.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Web.Http.WebHost.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Time sheet\Phase 2\TimeSheet\obj\Debug\TimeSheet.csproj.AssemblyReference.cache
+D:\Project Time sheet\Phase 2\TimeSheet\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
+D:\Project Time sheet\Phase 2\TimeSheet\obj\Debug\TimeSheet.csproj.CopyComplete
+D:\Project Time sheet\Phase 2\TimeSheet\obj\Debug\TimeSheet.dll
+D:\Project Time sheet\Phase 2\TimeSheet\obj\Debug\TimeSheet.pdb
+D:\Project Time sheet\Phase 2\TimeSheet\bin\BouncyCastle.Crypto.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itextsharp.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itextsharp.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.barcodes.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.commons.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.forms.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.html2pdf.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.io.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.kernel.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.layout.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.pdfa.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.sign.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.styledxmlparser.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.svg.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.Logging.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.Options.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.Primitives.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Buffers.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Memory.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Numerics.Vectors.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.ValueTuple.dll
+D:\Project Time sheet\Phase 2\TimeSheet\bin\BouncyCastle.Crypto.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.barcodes.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.commons.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.forms.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.html2pdf.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.io.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.kernel.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.layout.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.pdfa.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.sign.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.styledxmlparser.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\itext.svg.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.Logging.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.Options.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\Microsoft.Extensions.Primitives.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Buffers.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Memory.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Numerics.Vectors.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.Threading.Tasks.Extensions.xml
+D:\Project Time sheet\Phase 2\TimeSheet\bin\System.ValueTuple.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\TimeSheet.dll.config
+D:\Project Time sheet\phase 3\TimeSheet\bin\TimeSheet.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\TimeSheet.pdb
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\csc.exe
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\csc.exe.config
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\csc.rsp
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\csi.exe
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\csi.exe.config
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\csi.rsp
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.AppContext.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Collections.Immutable.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Console.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.IO.Compression.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.IO.FileSystem.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Net.Http.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Net.Sockets.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.ValueTuple.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Xml.XPath.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\vbc.exe
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\vbc.exe.config
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\vbc.rsp
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\VBCSCompiler.exe
+D:\Project Time sheet\phase 3\TimeSheet\bin\roslyn\VBCSCompiler.exe.config
+D:\Project Time sheet\phase 3\TimeSheet\bin\AjaxControlToolkit.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\BouncyCastle.Crypto.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.barcodes.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.commons.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.forms.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.html2pdf.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.io.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.kernel.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.layout.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.pdfa.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.sign.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.styledxmlparser.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.svg.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\itextsharp.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.Logging.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.Options.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.Primitives.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\Newtonsoft.Json.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Buffers.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Memory.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Net.Http.Formatting.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Numerics.Vectors.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.ValueTuple.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Web.Http.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Web.Http.WebHost.dll
+D:\Project Time sheet\phase 3\TimeSheet\bin\BouncyCastle.Crypto.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.barcodes.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.commons.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.forms.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.html2pdf.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.io.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.kernel.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.layout.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.pdfa.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.sign.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.styledxmlparser.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itext.svg.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\itextsharp.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.Logging.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.Options.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.Extensions.Primitives.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Buffers.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Memory.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Numerics.Vectors.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Threading.Tasks.Extensions.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.ValueTuple.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\Newtonsoft.Json.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Net.Http.Formatting.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Web.Http.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\System.Web.Http.WebHost.xml
+D:\Project Time sheet\phase 3\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Time sheet\phase 3\TimeSheet\obj\Debug\TimeSheet.csproj.AssemblyReference.cache
+D:\Project Time sheet\phase 3\TimeSheet\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
+D:\Project Time sheet\phase 3\TimeSheet\obj\Debug\TimeSheet.csproj.CopyComplete
+D:\Project Time sheet\phase 3\TimeSheet\obj\Debug\TimeSheet.dll
+D:\Project Time sheet\phase 3\TimeSheet\obj\Debug\TimeSheet.pdb
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\TimeSheet.dll.config
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\TimeSheet.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\TimeSheet.pdb
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\csc.exe
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\csc.exe.config
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\csc.rsp
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\csi.exe
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\csi.exe.config
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\csi.rsp
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.AppContext.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Collections.Immutable.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Console.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.IO.Compression.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.IO.FileSystem.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Net.Http.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Net.Sockets.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.ValueTuple.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Xml.XPath.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\vbc.exe
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\vbc.exe.config
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\vbc.rsp
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\VBCSCompiler.exe
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\roslyn\VBCSCompiler.exe.config
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\AjaxControlToolkit.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\BouncyCastle.Crypto.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.barcodes.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.commons.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.forms.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.html2pdf.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.io.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.kernel.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.layout.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.pdfa.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.sign.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.styledxmlparser.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.svg.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itextsharp.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.Logging.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.Options.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.Primitives.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Newtonsoft.Json.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Buffers.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Memory.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Net.Http.Formatting.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Numerics.Vectors.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.ValueTuple.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Web.Http.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Web.Http.WebHost.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\BouncyCastle.Crypto.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.barcodes.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.commons.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.forms.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.html2pdf.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.io.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.kernel.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.layout.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.pdfa.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.sign.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.styledxmlparser.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itext.svg.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\itextsharp.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.Logging.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.Options.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.Extensions.Primitives.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Buffers.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Memory.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Numerics.Vectors.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Threading.Tasks.Extensions.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.ValueTuple.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Newtonsoft.Json.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Net.Http.Formatting.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Web.Http.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\System.Web.Http.WebHost.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\obj\Debug\TimeSheet.csproj.CopyComplete
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\obj\Debug\TimeSheet.dll
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\obj\Debug\TimeSheet.pdb
+D:\Project Time sheet\phase 3\TimeSheet - for testing update tab\obj\Debug\TimeSheet.csproj.AssemblyReference.cache
+D:\Project Time sheet\Phase 4\TimeSheet\bin\TimeSheet.dll.config
+D:\Project Time sheet\Phase 4\TimeSheet\bin\TimeSheet.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\TimeSheet.pdb
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\csc.exe
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\csc.exe.config
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\csc.rsp
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\csi.exe
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\csi.exe.config
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\csi.rsp
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.AppContext.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Collections.Immutable.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Console.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.IO.Compression.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.IO.FileSystem.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Net.Http.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Net.Sockets.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.ValueTuple.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Xml.XPath.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\vbc.exe
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\vbc.exe.config
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\vbc.rsp
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\VBCSCompiler.exe
+D:\Project Time sheet\Phase 4\TimeSheet\bin\roslyn\VBCSCompiler.exe.config
+D:\Project Time sheet\Phase 4\TimeSheet\bin\AjaxControlToolkit.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\BouncyCastle.Crypto.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.barcodes.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.commons.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.forms.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.html2pdf.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.io.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.kernel.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.layout.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.pdfa.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.sign.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.styledxmlparser.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.svg.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itextsharp.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.Logging.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.Options.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.Primitives.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Newtonsoft.Json.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Buffers.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Memory.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Net.Http.Formatting.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Numerics.Vectors.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.ValueTuple.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Web.Http.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Web.Http.WebHost.dll
+D:\Project Time sheet\Phase 4\TimeSheet\bin\BouncyCastle.Crypto.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.barcodes.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.commons.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.forms.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.html2pdf.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.io.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.kernel.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.layout.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.pdfa.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.sign.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.styledxmlparser.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itext.svg.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\itextsharp.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.Logging.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.Options.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.Extensions.Primitives.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Buffers.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Memory.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Numerics.Vectors.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Threading.Tasks.Extensions.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.ValueTuple.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Newtonsoft.Json.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Net.Http.Formatting.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Web.Http.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\System.Web.Http.WebHost.xml
+D:\Project Time sheet\Phase 4\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Time sheet\Phase 4\TimeSheet\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
+D:\Project Time sheet\Phase 4\TimeSheet\obj\Debug\TimeSheet.csproj.CopyComplete
+D:\Project Time sheet\Phase 4\TimeSheet\obj\Debug\TimeSheet.dll
+D:\Project Time sheet\Phase 4\TimeSheet\obj\Debug\TimeSheet.pdb
+D:\Project Time sheet\Phase 4\TimeSheet\obj\Debug\TimeSheet.csproj.AssemblyReference.cache
+D:\Project Time sheet\Phase 7\TimeSheet\bin\TimeSheet.dll.config
+D:\Project Time sheet\Phase 7\TimeSheet\bin\TimeSheet.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\TimeSheet.pdb
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\csc.exe
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\csc.exe.config
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\csc.rsp
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\csi.exe
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\csi.exe.config
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\csi.rsp
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.AppContext.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Collections.Immutable.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Console.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.IO.Compression.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.IO.FileSystem.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Net.Http.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Net.Sockets.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.ValueTuple.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Xml.XPath.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\vbc.exe
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\vbc.exe.config
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\vbc.rsp
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\VBCSCompiler.exe
+D:\Project Time sheet\Phase 7\TimeSheet\bin\roslyn\VBCSCompiler.exe.config
+D:\Project Time sheet\Phase 7\TimeSheet\bin\AjaxControlToolkit.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\BouncyCastle.Crypto.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.barcodes.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.commons.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.forms.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.html2pdf.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.io.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.kernel.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.layout.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.pdfa.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.sign.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.styledxmlparser.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.svg.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itextsharp.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.Logging.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.Options.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.Primitives.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Newtonsoft.Json.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Buffers.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Memory.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Net.Http.Formatting.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Numerics.Vectors.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.ValueTuple.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Web.Http.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Web.Http.WebHost.dll
+D:\Project Time sheet\Phase 7\TimeSheet\bin\BouncyCastle.Crypto.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.barcodes.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.commons.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.forms.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.html2pdf.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.io.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.kernel.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.layout.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.pdfa.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.sign.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.styledxmlparser.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itext.svg.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\itextsharp.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.Logging.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.Options.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.Extensions.Primitives.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Buffers.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Memory.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Numerics.Vectors.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Threading.Tasks.Extensions.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.ValueTuple.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Newtonsoft.Json.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Net.Http.Formatting.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Web.Http.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\System.Web.Http.WebHost.xml
+D:\Project Time sheet\Phase 7\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Time sheet\Phase 7\TimeSheet\obj\Debug\TimeSheet.csproj.AssemblyReference.cache
+D:\Project Time sheet\Phase 7\TimeSheet\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
+D:\Project Time sheet\Phase 7\TimeSheet\obj\Debug\TimeSheet.csproj.CopyComplete
+D:\Project Time sheet\Phase 7\TimeSheet\obj\Debug\TimeSheet.dll
+D:\Project Time sheet\Phase 7\TimeSheet\obj\Debug\TimeSheet.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\TimeSheet.dll.config
+D:\Project Time sheet\Phase 8\TimeSheet\bin\TimeSheet.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\TimeSheet.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\csc.exe
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\csc.exe.config
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\csc.rsp
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\csi.exe
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\csi.exe.config
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\csi.rsp
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.AppContext.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Collections.Immutable.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Console.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.IO.Compression.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.IO.FileSystem.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Net.Http.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Net.Sockets.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.ValueTuple.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Xml.XPath.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\vbc.exe
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\vbc.exe.config
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\vbc.rsp
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\VBCSCompiler.exe
+D:\Project Time sheet\Phase 8\TimeSheet\bin\roslyn\VBCSCompiler.exe.config
+D:\Project Time sheet\Phase 8\TimeSheet\bin\AjaxControlToolkit.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\BouncyCastle.Crypto.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.barcodes.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.commons.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.forms.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.html2pdf.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.io.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.kernel.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.layout.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.pdfa.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.sign.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.styledxmlparser.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.svg.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itextsharp.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.Logging.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.Options.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.Primitives.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Newtonsoft.Json.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Buffers.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Memory.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Net.Http.Formatting.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Numerics.Vectors.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.ValueTuple.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Web.Http.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Web.Http.WebHost.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\BouncyCastle.Crypto.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.barcodes.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.commons.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.forms.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.html2pdf.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.io.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.kernel.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.layout.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.pdfa.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.sign.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.styledxmlparser.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itext.svg.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\itextsharp.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.Logging.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.Options.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Extensions.Primitives.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Buffers.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Memory.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Numerics.Vectors.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Threading.Tasks.Extensions.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.ValueTuple.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Newtonsoft.Json.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Net.Http.Formatting.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Web.Http.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.Web.Http.WebHost.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Time sheet\Phase 8\TimeSheet\obj\Debug\TimeSheet.csproj.AssemblyReference.cache
+D:\Project Time sheet\Phase 8\TimeSheet\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
+D:\Project Time sheet\Phase 8\TimeSheet\obj\Debug\TimeSheet.csproj.CopyComplete
+D:\Project Time sheet\Phase 8\TimeSheet\obj\Debug\TimeSheet.dll
+D:\Project Time sheet\Phase 8\TimeSheet\obj\Debug\TimeSheet.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Google.Apis.Auth.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Google.Apis.Core.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Google.Apis.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Google.Apis.PlatformServices.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Google.Apis.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Google.Apis.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Google.Apis.Auth.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Google.Apis.Auth.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Google.Apis.Core.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Google.Apis.Core.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.Security.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Owin.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.Security.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Logging.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Logging.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Logging.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Project Time sheet\Phase 8\TimeSheet\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Project Time sheet\Phase 9\TimeSheet\obj\Debug\TimeSheet.csproj.AssemblyReference.cache
+D:\Project Time sheet\Phase 9\TimeSheet\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
+D:\Project Time sheet\Phase 9\TimeSheet\obj\Debug\TimeSheet.dll
+D:\Project Time sheet\Phase 9\TimeSheet\obj\Debug\TimeSheet.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\obj\Debug\TimeSheet.csproj.AssemblyReference.cache
+D:\Project Time sheet\Phase 10\TimeSheet\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
+D:\Project Time sheet\Phase 10\TimeSheet\obj\Debug\TimeSheet.dll
+D:\Project Time sheet\Phase 10\TimeSheet\obj\Debug\TimeSheet.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\bin\TimeSheet.dll.config
+D:\Project Time sheet\Phase 10\TimeSheet\bin\TimeSheet.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\TimeSheet.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\csc.exe
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\csc.exe.config
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\csc.rsp
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\csi.exe
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\csi.exe.config
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\csi.rsp
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.AppContext.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Collections.Immutable.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Console.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.IO.Compression.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.IO.FileSystem.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Net.Http.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Net.Sockets.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.ValueTuple.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Xml.XPath.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\vbc.exe
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\vbc.exe.config
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\vbc.rsp
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\VBCSCompiler.exe
+D:\Project Time sheet\Phase 10\TimeSheet\bin\roslyn\VBCSCompiler.exe.config
+D:\Project Time sheet\Phase 10\TimeSheet\bin\AjaxControlToolkit.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\BouncyCastle.Crypto.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Google.Apis.Auth.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Google.Apis.Core.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Google.Apis.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Google.Apis.PlatformServices.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.barcodes.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.commons.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.forms.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.html2pdf.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.io.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.kernel.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.layout.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.pdfa.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.sign.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.styledxmlparser.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.svg.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itextsharp.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Authentication.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Authentication.OAuth.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Cryptography.Internal.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.DataProtection.Abstractions.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.DataProtection.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Http.Abstractions.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Http.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Http.Extensions.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Http.Features.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.WebUtilities.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Configuration.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Logging.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Options.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.OptionsModel.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Primitives.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.WebEncoders.Core.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.WebEncoders.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Logging.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Net.Http.Headers.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Newtonsoft.Json.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Buffers.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Memory.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Net.Http.Formatting.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Numerics.Vectors.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Threading.Tasks.Extensions.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.ValueTuple.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Web.Http.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Web.Http.WebHost.dll
+D:\Project Time sheet\Phase 10\TimeSheet\bin\BouncyCastle.Crypto.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Google.Apis.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Google.Apis.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Google.Apis.Auth.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Google.Apis.Auth.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Google.Apis.Core.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Google.Apis.Core.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.barcodes.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.commons.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.forms.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.html2pdf.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.io.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.kernel.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.layout.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.pdfa.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.sign.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.styledxmlparser.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itext.svg.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\itextsharp.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Authentication.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Authentication.OAuth.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Cryptography.Internal.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.DataProtection.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.DataProtection.Abstractions.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Http.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Http.Abstractions.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Http.Extensions.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.Http.Features.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.AspNet.WebUtilities.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Configuration.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Logging.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Options.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.OptionsModel.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.Primitives.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.WebEncoders.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Extensions.WebEncoders.Core.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Logging.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Logging.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.Net.Http.Headers.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Newtonsoft.Json.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Buffers.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Memory.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Numerics.Vectors.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Threading.Tasks.Extensions.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.ValueTuple.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Net.Http.Formatting.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Web.Http.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\System.Web.Http.WebHost.xml
+D:\Project Time sheet\Phase 10\TimeSheet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project Time sheet\Phase 10\TimeSheet\obj\Debug\TimeSheet.csproj.CopyComplete
