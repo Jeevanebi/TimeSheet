@@ -17,9 +17,9 @@ namespace TimeSheet
 
         public string cs = "Server= localhost; Database= Timesheet_DB;Integrated Security = SSPI;";
 
-        string clientid = "114081476260-sggv93gu2j3pl39uktjq7opgiamf1q4i.apps.googleusercontent.com";
+        string clientid = "MTE0MDgxNDc2MjYwLXNnZ3Y5M2d1MmozcGwzOXVrdGpxN29wZ2lhbWYxcTRpLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29t";
         //your client secret  
-        string clientsecret = "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";
+        string clientsecret = "R09DU1BYLWJSS3kzWkhwQlg1QWlCZEUteXVIVFFDVUFDc1E";
         //your redirection url  
         string redirection_url = "https://localhost:44327/Index.aspx";
         string url = "https://accounts.google.com/o/oauth2/token";
