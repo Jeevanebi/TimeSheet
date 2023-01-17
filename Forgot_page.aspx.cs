@@ -77,7 +77,7 @@ namespace TimeSheet
 
                     using (SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587))
                     {
-                        smtp.Credentials = new NetworkCredential("noreply.gabriels@gmail.com", "AB_CD@123");
+                        smtp.Credentials = new NetworkCredential("noreply.gabriels@gmail.com", "QUJfQ0RAMTIz");
                         smtp.EnableSsl = true;
                         smtp.Send(mail);
                     }
@@ -111,7 +111,7 @@ namespace TimeSheet
             {
                 byte[] response = wb.UploadValues("https://api.textlocal.in/send/", new NameValueCollection()
                 {
-                {"apikey" , "NTU2ZTYxNzQ3YTczNzI2NzRlNTY3MTM5NDE2MjQ5NzA="},
+                {"apikey" , "TlRVMlpUWXhOelEzWVRjek56STJOelJsTlRZM01UTTVOREUyTWpRNU56QT0"},
                 {"numbers" , MblNo},
                 {"message" , Msg},
                 {"sender" , "600010"}
